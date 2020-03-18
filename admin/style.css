@@ -1,0 +1,38 @@
+#wrapper 
+{
+	width: 100%;
+	background: #202020;
+	height: 100%;
+}
+
+#navside 
+{
+	background: #202020;
+}
+
+#navside ul 
+{
+	padding-left: 5px;
+	/*border-bottom: 1px solid #f1f1f1;*/
+}
+#navside ul a:hover
+{
+	background: #f3f3f3 ;
+	color : black;
+}
+#navside ul a 
+{
+	color: #fff;
+}
+#page-wrapper
+{
+	padding: 15px;
+	background: #f3f3f3; 
+	padding-bottom: 100%;   
+}
+#page-inner
+{
+	background: #fff;
+	padding: 15px;
+	/*padding-bottom: 90%;*/
+}

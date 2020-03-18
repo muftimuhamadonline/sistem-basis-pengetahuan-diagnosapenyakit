@@ -1,0 +1,12 @@
+.jumbotron 
+{
+	position: relative;
+	background : url("assets/img1.jpg");
+	width: 100%;
+	height: 100%;
+	/*background-size: cover;*/
+}
+#id
+{
+	background: white;
+}
